@@ -21,7 +21,7 @@ install axios in user floder.
 ### `npm start`
 
 Runs the api in the development mode.\
-Open [http://localhost:9001/textAPI] to view it in the browser.
+Open [http://localhost:9001/testAPI] to view it in the browser.
 
 
 
