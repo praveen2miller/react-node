@@ -10,6 +10,14 @@ In the project directory, you can run:
 
 Initially install node module in api and user folder.
 
+### `npm install --save cors`
+
+Install cors in api folder.
+
+### `npm i axios`
+
+install axios in user floder.
+
 ### `npm start`
 
 Runs the api in the development mode.\
