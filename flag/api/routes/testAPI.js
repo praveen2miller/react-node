@@ -3,10 +3,12 @@ var router = express.Router();
 
 router.get("/", function(req, res, next) {
     res.send([
-		{ name:'India',
+		{ id=1,
+		 name:'India',
 			img:'https://www.sciencekids.co.nz/images/pictures/flags96/India.jpg',
 		},
-		{name:'Albania',
+		{id=2,
+		 name:'Albania',
 			img:'https://www.sciencekids.co.nz/images/pictures/flags96/Albania.jpg',
 		},
 		{name:'Algeria',
