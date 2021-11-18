@@ -3,7 +3,7 @@ import axios from 'axios'
 import React,{useState,useEffect} from 'react'
  /** */ 
  
-function app() {
+function data() {
     
     const[country,setcountry]=useState([]);
     const[countryName,setcountryName]=useState();
@@ -62,4 +62,4 @@ function app() {
         )
 }
 
-export default app
+export default data
