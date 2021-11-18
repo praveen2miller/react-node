@@ -3,7 +3,7 @@ import axios from 'axios'
 import React,{useState,useEffect} from 'react'
  /** */ 
  
-function Datafetch() {
+function app() {
     
     const[country,setcountry]=useState([]);
     const[countryName,setcountryName]=useState();
@@ -62,4 +62,4 @@ function Datafetch() {
         )
 }
 
-export default Datafetch
+export default app
